@@ -1,9 +1,27 @@
-- Hi, I am Ed J. Wanjama, also known as Edward Njeru Wanjama.
-- I’m a data scientist, social impact entrepreneur, venture builder, investor, and advocate for ethical and inclusive innovations across Africa.
-- I have over 9 years of experience leading data value projects in SaaS and supporting innovations for complex manufacturers navigating supply chain risks and compliance needs.
-- I now focus on nurturing early-stage ventures that are harnessing the power of data science and machine learning to solve critical and high-impact problems for underserved markets ethically —especially in sectors like health, education, agriculture, and governance.
-- My mission is to champion the next generation of startups grounded in faith, ethics, and passion for inclusive innovation, especially in critical sectors like health, education, food systems, and governance.
-- One of my fondest memories was during the pandemic, when I collaborated with 5 niche startups providing critical services, including an award-winning startup. I continue to collaborate with bold founders tackling grassroots problems.
-- I'm also a proud neurodiversity advocate, dad, farmer, DIY maker, and CrossFit enthusiast.
-- Fun fact: My name means change, new, or evolve.
+👋 Hello there, I'm Ed J Wanjama,
 
+A  data products leader, social impact entrepreneur, thought leader and advocate for ethical tech, entrepreneurship and inclusive innovation.
+
+With over nine years of experience in the SaaS startup ecosystem, I have worked across both technical and leadership roles. As an individual contributor, I was part of teams focused on data scraping, modeling, and mining projects that helped complex manufacturers navigate supply chain compliance and reporting. Later, as a leader, I guided teams to deliver high-impact data-driven innovations, enabling  manufacturers  unlock greater efficiency and value from their complex supply chains.
+
+In 2021, I began sharing some of the supply chain leverage best practices with a small group of social impact startups in my community providing essential services and seeking ways to recover from the disruptions caused by COVID-19. That experience has since led me to social impact entrepreneurship and advocacy for ethical and inclusive innovation.
+
+Currently, I work closely with a portfolio of early-stage social impact ventures that leverage data and machine learning to tackle critical challenges in underserved and unserved markets—with an ethical and inclusive approach.
+
+My mission is to champion thoughtful and ethical innovations across Sub-Saharan Africa, supporting emerging entrepreneurs who are building meaningful, high-impact ethical solutions for their communities.
+
+🛠️ What I Do, Skills & Tools:
+
+Product Lifecycle Management: Jira, Confluence, DevOps, Amplitude, Mixpanel, Figma, Userdoc, SurveyMonkey
+
+Data Modelling, Analysis, Visualization: Pandas, Matplotlib,PowerBI
+
+Machine Learning: Python, Scikit Learn
+
+Databases Management: MySQL, PostgressSQL
+
+Project Management: Trello, Asana
+
+Cross functional leadership and collaboration: Slack, Zoom, Teams, Calendly, Google Workspace, Notion
+
+Others: Advocacy, advisory, mentorship, coaching on ethical innovation, inclusive innovation and social impact entrepreneurship
